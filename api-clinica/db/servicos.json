@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "animalId": 1,
+    "servico": "Consulta de rotina"
+  },
+  {
+    "id": 2,
+    "animalId": 1,
+    "servico": "Exame de sangue"
+  },
+  {
+    "id": 3,
+    "animalId": 2,
+    "servico": "Cirurgia ortopédica"
+  },
+  {
+    "id": 1750812183848,
+    "animalId": 1750811823097,
+    "servico": "Vacinação anual"
+  },
+  {
+    "id": 1750812773758,
+    "animalId": 1,
+    "servico": "Teste Fronte"
+  },
+  {
+    "id": 1750813055663,
+    "animalId": 1750811850717,
+    "servico": "Teste teste"
+  },
+  {
+    "id": 1750813064278,
+    "animalId": 1750812529925,
+    "servico": "Teste teste"
+  }
+]

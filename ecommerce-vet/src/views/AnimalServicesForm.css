@@ -1,0 +1,45 @@
+.animal-services-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.animal-services-form .form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.animal-services-form label {
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.animal-services-form input,
+.animal-services-form select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.animal-services-form button {
+    padding: 10px 16px;
+    background-color: #005fa3;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.animal-services-form button:hover {
+    background-color: #28a745;
+}
+
+.mensagem {
+    margin-top: 10px;
+    color: #155724;
+    background-color: #d4edda;
+    padding: 8px;
+    border-radius: 6px;
+}

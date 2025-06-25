@@ -1,0 +1,23 @@
+.animal-history {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.history-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.history-card h3 {
+    margin-bottom: 10px;
+}
+
+.history-card ul {
+    margin: 0;
+    padding-left: 20px;
+}

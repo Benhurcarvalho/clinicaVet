@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nome": "Luna",
+    "raca": "Labrador",
+    "idade": 3,
+    "dono": "Fernanda",
+    "cor": "Amarelo"
+  },
+  {
+    "id": 2,
+    "nome": "Thor",
+    "raca": "Bulldog",
+    "idade": 5,
+    "dono": "Carlos",
+    "cor": "Branco"
+  },
+  {
+    "id": 1750811823097,
+    "nome": "Bidu",
+    "raca": "Beagle",
+    "idade": 2,
+    "dono": "Marcela",
+    "cor": "Preto e branco"
+  },
+  {
+    "id": 1750811850717,
+    "nome": "Lala",
+    "raca": "Beagle",
+    "idade": 2,
+    "dono": "Marcela",
+    "cor": "Preto e branco"
+  },
+  {
+    "id": 1750812529925,
+    "nome": "Teste Fronte",
+    "raca": "321",
+    "idade": 12,
+    "dono": "Teste Fronte",
+    "cor": "preto"
+  }
+]
